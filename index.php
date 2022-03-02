@@ -29,7 +29,7 @@ try {
 
     //Recipients
     $mail->setFrom('from@example.com', 'Mailer');
-    $mail->addAddress('dhananjaynadsoftdev@gmail.com');               //Name is optional
+    $mail->addAddress('toemail@gmail.com');               //Name is optional
     $mail->addReplyTo('info@example.com', 'Information');
     $mail->addCC('cc@example.com');
     $mail->addBCC('bcc@example.com');
